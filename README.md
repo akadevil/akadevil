@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Nare
-- 👀 I’m interested in Art, Gaming, writing Music and codding
-- 🌱 I’m currently learning Go and Rust ...
-- 💞️ I’m looking to collaborate on open source projects on Go and Rust
+- 👋 Hi there, name's Nare
+- 👀 I’m a Software Engineer
+- 👀 I love Art, Gaming, playing Music and codding
+- 🌱 I’m currently on my way to learn and improve my Go, Rust and Elixir skills
+- 💞️ I’m looking to collaborate on open source projects on Go, Rust and Elixir
 - 📫 How to reach me: find me on telegram @aka_devil or email me nare.zakaryanmm@gmail.com
 
 <!---
